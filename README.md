@@ -21,8 +21,6 @@ Watch the full tutorial on YouTube:
 ---
 
 ## 📂 Project Structure
-
-## 📂 Project Structure
 Multipage-Website/
 │── index.html
 │── about.html
